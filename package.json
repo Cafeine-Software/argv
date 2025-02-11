@@ -3,9 +3,6 @@
   "type":"module",
   "version": "1.0.0",
   "main": "argv.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Quentin Lamamy <contact@quentin-lamamy.fr>",
   "license": "CC BY-SA 4.0",
   "description": "A simple and lightweight module to parse command line arguments",
