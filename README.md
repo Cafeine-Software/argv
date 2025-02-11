@@ -54,9 +54,7 @@ Will output:
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)License.](https://creativecommons.org/licenses/by-sa/4.0/)
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png)
+[![CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Contact
 
