@@ -54,7 +54,7 @@ Will output:
 
 ## License
 
-[![CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png" width="50%"/>](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Contact
 
