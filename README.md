@@ -11,9 +11,6 @@ A simple and lightweight module to parse command line arguments
 <br/>
 </div>
 
-
----
-
 ## Installation
 
 Install the package via npm:
@@ -21,8 +18,6 @@ Install the package via npm:
 ```bash
 npm install argv.js
 ```
-
----
 
 ## Usage
 
@@ -60,7 +55,8 @@ Will output:
 ## License
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)License.](https://creativecommons.org/licenses/by-sa/4.0/)
----
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png)
 
 ## Contact
 
