@@ -2,7 +2,7 @@
 
 # Argv.js
 
-![node](https://img.shields.io/badge/Node-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 A simple and lightweight module to parse command line arguments
 
