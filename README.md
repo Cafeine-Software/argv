@@ -5,6 +5,8 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [![Npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@cafeine-software/argv)
 
+[![Tests](https://github.com/Cafeine-Software/argv/actions/workflows/main.yml/badge.svg)](https://github.com/Cafeine-Software/argv/actions/workflows/main.yml)
+
 
 A simple and lightweight module to parse command line arguments
 
@@ -29,7 +31,7 @@ npm i @cafeine-software/argv
 import Argv from '@cafeine-software/argv';
 ```
 
-### Basic Example
+### Parse Example
 
 If you run the following script:
 
@@ -55,6 +57,22 @@ Will output:
   toto:true
 }
 ```
+
+### Check Mandatory Args
+
+Use `Argv.hasMandatoryArgs()` to ensure required options are present before running your logic:
+
+```javascript
+import Argv from '@cafeine-software/argv';
+
+if (!Argv.hasMandatoryArgs(['config', 'verbose'])) {
+  console.error('Missing required arguments: --config and --verbose');
+  process.exit(1);
+}
+
+```
+
+`hasMandatoryArgs` returns `true` only if every key you list exists in the parsed arguments object.
 
 ## License
 
