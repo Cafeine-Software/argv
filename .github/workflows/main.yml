@@ -1,5 +1,5 @@
 # .github/workflows/tests.yml
-name: Run Argv tests
+name: Tests
 
 on:
   push:
