@@ -1,0 +1,22 @@
+{
+  "name": "@cafeine-software/argv",
+  "type": "module",
+  "version": "1.0.2",
+  "main": "argv.js",
+  "author": "Quentin Lamamy <contact@quentin-lamamy.fr>",
+  "license": "CC BY-SA 4.0",
+  "description": "A simple and lightweight module to parse command line arguments",
+  "keywords": [
+    "argv",
+    "command line",
+    "arguments",
+    "parse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cafeine-Software/argv"
+  },
+  "scripts": {
+    "test": "node ./test/argv.test.js"
+  }
+}
