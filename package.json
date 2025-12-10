@@ -1,7 +1,7 @@
 {
   "name": "@cafeine-software/argv",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "main": "argv.js",
   "author": "Quentin Lamamy <contact@quentin-lamamy.fr>",
   "license": "CC BY-SA 4.0",
